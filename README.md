@@ -1,5 +1,7 @@
 # Dragonfly::S3DataStore
 
+[![Join the chat at https://gitter.im/khacanh/dragonfly-s3_data_store](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/khacanh/dragonfly-s3_data_store?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Amazon AWS S3 data store for use with the [Dragonfly](http://github.com/markevans/dragonfly) gem.
 
 ## Gemfile
